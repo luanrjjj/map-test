@@ -61,7 +61,6 @@ const MapState= ({ data = []}: BrazilMapProps) => {
     }
     console.log("object: ", object);
     if (object.features === undefined) {
-      console.log("UHSAUDHUAHDUAHDUHDAUSHDSAUHDUHU")
       return;
     }
 
